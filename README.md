@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prabhpreetsingh1472
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently studying Computer Science @ Northeastern University
-- 📫 How to reach me 516-534-7410
 - ⚡ Fun fact: ...
 
 <!---
